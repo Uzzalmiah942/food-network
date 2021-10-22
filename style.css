@@ -1,0 +1,127 @@
+body{
+    font-family: 'Fjalla One', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+#header{
+    display: flex;
+    padding: 10px;
+    margin-left: 5px;
+    margin-bottom: 15px;
+    text-align: left;
+}
+.header-part{
+    width: 50%;
+    padding-left: 5%;
+}
+.textcolor{
+    color: orange;
+}
+.link-color{
+    padding: 10px 40px;
+    text-decoration: none;
+    background-image: linear-gradient(red,yellow);
+    border-radius: 20px;
+    color: white;
+}
+ h1{
+     font-size: 40px;
+ }
+ .header-part img{
+     width: 100%
+ }
+ .header-part p{
+     text-align: left;
+ }
+ #content{
+     display: flex;
+     background-image: url(images/shapes/7.png);
+     background-repeat: no-repeat;
+     margin-bottom:30px;
+     padding: 10px;
+     text-align: left;
+ }
+ .content-part p{
+     text-align: left;
+ }
+ .content-part{
+     width: 50%;
+     padding-right: 5%;
+     padding-left: 10px;
+ }
+ .content-part img{ 
+     width: 100%;
+     padding-right: 10%;}
+     h1{
+         text-align: center;
+     }
+     p{
+         text-align: center;
+     }
+     #recipie{
+         margin: 30px;
+     }
+     .recipie-part{
+         display: flex;
+         width: 100%;
+         }   
+    .recipie-part img{
+        width: 100%
+    }
+    .recipie-part p{
+        text-align: left;
+    }
+    #recipie-part-1{
+        margin: 20px;
+        border-radius: 15px;
+        padding: 15px;
+        box-shadow: 5px 7px 20px gray;
+    }
+    #recipie-part-2{
+        margin: 20px;
+        border-radius: 15px;
+        box-shadow: 5px 7px 20px gray;
+        padding: 15px;
+    }
+    #recipie-part-3{
+        border-radius: 15px;
+        box-shadow: 5px 7px 20px gray;
+        margin: 15px;
+        padding: 15px;
+    }
+    #flower{
+        margin: 35px;
+        display: flex;
+        width: 92%;
+        border-radius: 20px;
+        box-shadow: 5px 7px 20px burlywood;
+    }
+       
+ #flower h1{
+     width: 100%;
+     text-align: center;
+     margin-right: 30px;
+ }
+ #flower p{
+     text-align: center;
+ }
+ .flower-1{
+     width: 33%;
+ }
+ .flower-2{
+     width: 33%;
+ }
+ .flower-3{
+     width: 33%;
+ }
+ .last-part{
+     text-align: center;
+     margin-bottom: 10px;
+     background-color: black;
+     color: white;
+ }
+ .food{
+     color: orange;
+ }
+     
+    
+
